@@ -1,0 +1,29 @@
+{
+  "name": "h5",
+  "version": "1.0.0",
+  "description": "H5创意库",
+  "main": "index.js",
+  "scripts": {
+    "build": "./node_modules/.bin/webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tom-wang/h5.git"
+  },
+  "keywords": [
+    "h5"
+  ],
+  "author": "tom.wang.sz@qq.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tom-wang/h5/issues"
+  },
+  "homepage": "https://github.com/tom-wang/h5#readme",
+  "devDependencies": {
+    "webpack": "^2.3.2"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
