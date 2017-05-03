@@ -21,6 +21,9 @@
   },
   "homepage": "https://github.com/tom-wang/h5#readme",
   "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-preset-env": "^1.4.0",
     "css-loader": "^0.28.0",
     "extract-text-webpack-plugin": "^2.1.0",
     "webpack": "^2.3.3"
